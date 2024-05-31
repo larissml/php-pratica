@@ -1,0 +1,38 @@
+input {
+    margin:10px;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.calculadoraContainer{
+    margin: 0 auto;
+    width: 400px;
+    padding:1em;
+    border: 1px solid #000;
+    border-radius:1em;
+    background-color: rgb(96, 73, 73);
+    
+}
+h4{
+    float: right;
+    size: 5px;
+    color:antiquewhite;
+    background-color: black;
+    padding:10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+button{
+    padding: 7px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    
+}
+
+.resultado{
+    background-color: antiquewhite;
+    padding: 6px;
+    margin: 10px;
+    color:black;
+}
